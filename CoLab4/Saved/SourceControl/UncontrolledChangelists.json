@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Co-Lab4/CoLab4/Content/W_interactionPrompt.uasset",
+				"C:/Co-Lab4/CoLab4/Content/BP_Interactable.uasset",
+				"C:/Co-Lab4/CoLab4/Content/Boat.umap",
+				"C:/Co-Lab4/CoLab4/Content/SM_Whitebox.uasset",
 				"C:/CoLab4/Content/Boat.umap",
 				"C:/CoLab4/Content/lambert1.uasset",
 				"C:/CoLab4/Content/SM_Whitebox.uasset",
